@@ -1,0 +1,12 @@
+{
+  "name": "cloneUber",
+  "displayName": "cloneUber",
+  "expo": {
+    "name": "cloneUber",
+    "slug": "cloneUber",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
